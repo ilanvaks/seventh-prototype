@@ -17,6 +17,7 @@ export default function Portfolio () {
           <Col md={7}>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias rerum ratione adipisci praesentium beatae impedit, iure ex vel nisi deleniti, omnis, eaque commodi tenetur corrupti. Error neque suscipit aliquid eveniet.</p>
             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatum possimus similique ut repellat perferendis, sed nesciunt tempora dignissimos delectus quaerat quibusdam non repudiandae aperiam, aliquam earum excepturi labore voluptates rerum.</p>
+            <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorem, sapiente facere quisquam ex tempore at ut omnis amet nam optio natus fugiat dolore ducimus similique dicta sunt numquam. Minus, maxime.</p>
           </Col>
         </Row>
       </Container>
